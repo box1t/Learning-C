@@ -1,5 +1,6 @@
 # Learning-C
-Here are the examples of tasks from different sources that I have solved.
+Here are the examples of tasks that I have solved.
+I got them from different sources, which are mentioned.
 
 Make sure these tasks are not the copy-paste ones.
-Even if I meet some solutions, I firstly put them into compiler to see how it works and memorize the ideas.
+Even if I meet something already done, I firstly put the code into compiler manually to see how it works and memorize the ideas.
